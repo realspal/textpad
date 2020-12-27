@@ -1,0 +1,2 @@
+# textpad
+This project is a text editor desktop application, very similar in interface and functionality to MS Notepad, created in Java using Java Swing, AWT and other graphical elements. I created this application for my Computer Science Project in high school during the summer holidays in Class 11. I will add the remaining features like Undo / Redo and Find / Replace / GoTo later. I have checked its usability by creating, saving, opening and editing text (.txt) files with the executable file of this editor.
